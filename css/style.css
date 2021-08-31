@@ -3,17 +3,39 @@
     src: url("fonts/simple-cat-font/Simplecat-d9xpV.otf");
     font-weight: 300;
 }
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Roboto&display=swap');
 
 
 h1 {
-    color:aqua;
-    font-family: "cic";
+    color:blue;
+    font-family: "roboto";
     font-size: 45px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+h3{
+    font-family: "roboto",sans-serif;
+}
+#bio-header{
+    color: brown;
+    font-size: 40px;
+}
+#animals-header{
+    color:yellow;
+    font-size: 25px;
+}
+html{
+
 }
 p {
-    color: sandybrown;
+    color: rgb(176, 47, 18);
     font-size: 60px;
     opacity: 35%;
+    text-align: justify;
+    line-height: 50px;
+    font-weight: 900; 
+    font-family: "Nunito Sans";
 }
 img {
     width: 320px;
