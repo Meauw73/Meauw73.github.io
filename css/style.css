@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "cic";
+    src: url("fonts/simple-cat-font/Simplecat-d9xpV.otf");
+    font-weight: 300;
+}
+
+
+h1 {
+    color:aqua;
+    font-family: "cic";
+    font-size: 45px;
+}
+p {
+    color: sandybrown;
+    font-size: 60px;
+    opacity: 35%;
+}
+img {
+    width: 320px;
+}
