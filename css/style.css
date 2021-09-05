@@ -26,9 +26,9 @@ h3{
     font-size: 25px;
 }
 html{
-
+    font-size: large;
 }
-p {
+.animals{
     color: rgb(176, 47, 18);
     font-size: 60px;
     opacity: 35%;
@@ -36,7 +36,31 @@ p {
     line-height: 50px;
     font-weight: 900; 
     font-family: "Nunito Sans";
+    margin: 30px 10px 25px 5px;
 }
 img {
     width: 320px;
+    box-shadow: 3px 3px 10px black;
+    margin: 1%;
+
+}
+.bold{
+    font-weight: bold;  
+    max-width: 75%;
+}
+.img-div{
+    background-color: blue;
+    
+}
+.light{
+    background-color: skyblue;
+    margin: 5px 10px;
+    border: dotted 2px blue;
+    padding: 10px 0 0 0;
+}
+#email{
+    position: fixed;
+    color: red;
+    top: 10px;
+    left: 20px;
 }

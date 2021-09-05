@@ -1,0 +1,10 @@
+#colordiv{
+    display: inline-block;
+    width:100px ;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.251);
+}
+html{
+    background: url(../img/cic.jpg) no-repeat ;
+    
+}
